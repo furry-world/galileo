@@ -1,6 +1,6 @@
 **1981:**
 - Kepler Technologies sells computer division to Aphelion
-- Engineers from said division form Galileo out of protest to Aphelion
+- Some engineers from said division form Galileo
 - Work on Delta immediately starts
 
 **1983:**

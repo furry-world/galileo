@@ -17,7 +17,7 @@ Galileo's first ever computer. Initially intended as a general-purpose high-end 
 - 4 8x1-bit waveform channels
 - 1 noise channel
 - 4-bit volume control on all channels
-- 16-bit pitch control on all channels
+- 16-bit pitch control on all channels (except noise which gets 8-bit pitch control)
 - would allow for PCM playback by setting a channel's waveform to 0xFF and manipulating the volume control
 
 **OTHER**:

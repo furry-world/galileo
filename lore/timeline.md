@@ -9,5 +9,11 @@
 **1989:**
 - release of Gamma
 
+**1994:**
+- release of their first 3D accelerator, for Gamma
+
 **1997:**
-- release of Lambda
+- release of Lambda, along with a new 3D accelerator
+
+**2000:**
+- release of their first cross-platform 3D accelerator

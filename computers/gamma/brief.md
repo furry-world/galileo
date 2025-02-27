@@ -13,6 +13,7 @@ Seeing the success of Delta in creative markets, Galileo decided to lean heavily
     
 <details>
     <summary>Old ideas</summary>
+
 - **Option 1:**
     - 320x240 bitmap display, uses a color palette (max 256 colors, 15-bit definition, so 5 bits per color channel)
     - composite, S-Video and RGB output (possibly via SCART)
@@ -30,7 +31,7 @@ Seeing the success of Delta in creative markets, Galileo decided to lean heavily
 - some 8-bit PCM playback system idk (prob similar to Sound Blaster), TBD
 
 **OTHER**:
-- backwards compatible with Delta software
+- backwards compatible with Delta software (? - if so the design needs some tweaks)
 - includes a custom graphical OS
 - scanline counter and an option to trigger an interrupt on a specific scanline
 - NES/SNES controller compatibility

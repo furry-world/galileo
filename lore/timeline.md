@@ -6,6 +6,9 @@
 **1983:**
 - release of Delta
 
+**1985:**
+- Galileo opens its own semiconductor manufacturing plant to help Kepler with manufacturing, as well as making custom chips for themselves
+
 **1989:**
 - release of Gamma
 

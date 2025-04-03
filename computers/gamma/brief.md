@@ -6,7 +6,7 @@ Seeing the success of Delta in creative markets, Galileo decided to lean heavily
 
 **CPU**: 65C816 @ somewhere between 10-14 MHz, depending on available crystal oscillators that match up with NTSC/PAL line rates
 
-**RAM**: 2MB + VRAM
+**RAM**: 2MB (expandable) + VRAM
 
 **VIDEO**: custom video system
 - NEEDS RETHINKING! Too similar to IBM PC!

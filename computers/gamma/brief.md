@@ -2,9 +2,11 @@
 
 Seeing the success of Delta in creative markets, Galileo decided to lean heavily into said markets and design a successor that is a true generational upgrade over Delta. It keeps the simple design and great expandability of the Delta, but with more memory and a real 16-bit processor.
 
+This computer was initially slated to be released in 1986, but after seeing a prototype of Miko OHC-2, Galileo decided to delay the machine and significantly upgrade its specifications.
+
 ## Specs
 
-**CPU**: 65C816 @ somewhere between 10-14 MHz, depending on available crystal oscillators that match up with NTSC/PAL line rates
+**CPU**: 65C816 @ somewhere between 10-14 MHz, depending on available crystal oscillators that match up with NTSC/PAL line rates, optional 68000 accelerator card
 
 **RAM**: 2MB (expandable) + VRAM
 

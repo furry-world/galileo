@@ -1,5 +1,0 @@
-- owns a chip fab, is being contracted by other companies for manufacturing ICs and distribution in Europe
-- closely collaborates with other Yugoslavian companies (Kepler, iotaLabs), sharing resources and manufacturing capacity
-- instead of being sold to Aphelion, maybe it directly spun off from Kepler?
-- working out of a garage for a while?
-- 3D accelerators designed by iotaLabs? possible merger/acquisition?
